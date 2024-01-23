@@ -26,13 +26,13 @@ The preferred way to install this extension is through [composer](https://getcom
 Either run
 
 ```bash
-$ composer require alexh-ebs/phpagi ^2.20
+$ composer require alexh-ebs/phpagi 1.0.0
 ```
 
 or add
 
 ```
-"alexh-ebs/phpagi": "^2.20"
+"alexh-ebs/phpagi": "1.0.0"
 ```
 
 to the ```require``` section of your `composer.json` file.
