@@ -1,4 +1,4 @@
-PHPAGI README
+PHPAGI README -> FORK OF THE ORIGINAL PHPAGI (Working on php8)
 -------------
 
 Welcome to PHPAGI. 
@@ -26,13 +26,13 @@ The preferred way to install this extension is through [composer](https://getcom
 Either run
 
 ```bash
-$ composer require welltime/phpagi ^2.20
+$ composer require alexh-ebs/phpagi ^2.20
 ```
 
 or add
 
 ```
-"welltime/phpagi": "^2.20"
+"alexh-ebs/phpagi": "^2.20"
 ```
 
 to the ```require``` section of your `composer.json` file.
